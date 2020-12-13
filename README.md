@@ -1,0 +1,2 @@
+# Investigate_FBI_NCIS_Datasets
+The FBI-NCIS  Data Analysis Project as a part of Udacity Advanced Data Analyst Nanodegree Program is focus on analyze a dataset, use the Python libraries such as NumPy, pandas, Matplotlib, etc., and then communicate the findings about it, I apply the data analysis process which consists of asking questions, wrangling data (data gathering, data assessing, and data cleaning), exploring data analysis, draw conclusions, and communicate the findings.
